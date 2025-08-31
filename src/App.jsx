@@ -8,7 +8,7 @@ import { PhoneProjectScreen } from "./screens/PhoneProjectScreen";
 const router = createBrowserRouter([
   {
     path: "/*",
-    element: <AboutMe />,
+    element: <PhoneHomePage />,
   },
   {
     path: "/about-me",
