@@ -626,8 +626,8 @@ export const AboutMe = () => {
               My industry focus is in the <br />
               fast-paced tech space along with a curiosity to explore what
               product marketing looks like in different environments. Prior to
-              my current role in Cybersecurity, I’ve taken on and explored PMM
-              functions in Oil &amp; Gas, Fintech!
+              my current role at Okta, I’ve explored PMM
+              functions in Fintech and Energy!
             </p>
 
             <p className="make-it-punchy-by">
