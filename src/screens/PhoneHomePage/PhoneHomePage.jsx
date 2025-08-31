@@ -317,7 +317,7 @@ export const PhoneHomePage = () => {
             <p className="i-m-a-product">
               I’m a product marketer with a passion <br />
               for the intersection between people and product! <br />
-              Here’s a couple things i’m proud of:
+              Here’s a couple things I’m proud of:
             </p>
           </>
         )}
@@ -333,7 +333,7 @@ export const PhoneHomePage = () => {
             <p className="i-m-a-product-2">
               I’m a product marketer with a passion <br />
               for the intersection between people and product! <br />
-              Here’s a couple things i’m proud of:
+              Here’s a couple things I’m proud of:
             </p>
 
             <Link className="text-wrapper-54" to="/about-me">
