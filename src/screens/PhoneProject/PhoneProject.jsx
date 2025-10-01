@@ -99,28 +99,14 @@ export const PhoneProject = () => {
               <p className="span-wrapper">
                 <span className="text-wrapper-19">
                   I led a team of five student consultants on a{" "}
-                </span>
-              </p>
-
-              <p className="span-wrapper">
-                <span className="text-wrapper-20">12-week</span>
-              </p>
-
-              <p className="span-wrapper">
-                <span className="text-wrapper-19"> client engagement for </span>
-              </p>
-
-              <p className="span-wrapper">
-                <span className="text-wrapper-20">
-                  Civic Innovation Lab (the Lab)
-                </span>
-              </p>
-
-              <p className="span-wrapper">
-                <span className="text-wrapper-19">
-                  , a long-term research accelerator aimed at providing a
-                  permanent base to drive solutions that advance community
-                  engagement and well-being for the City of Burnaby.
+                 </span>
+                 <span className="text-wrapper-20">12-week</span>
+                 <span className="text-wrapper-19"> client engagement for </span>
+                 <span className="text-wrapper-20">Civic Innovation Lab (the Lab)</span>
+                 <span className="text-wrapper-19">
+                    , a long-term research accelerator aimed at providing a
+                    permanent base to drive solutions that advance community
+                    engagement and well-being for the City of Burnaby.
                 </span>
               </p>
             </>
@@ -202,30 +188,13 @@ export const PhoneProject = () => {
                   Since its inception in 2022, the Lab found early success by
                   scaling from{" "}
                 </span>
-              </p>
-
-              <p className="span-wrapper">
-                <span className="text-wrapper-20">
-                  0 to 15 projects in six months
-                </span>
-              </p>
-
-              <p className="span-wrapper">
+                <span className="text-wrapper-20">0 to 15 projects in six months</span>
                 <span className="text-wrapper-19"> and </span>
-              </p>
-
-              <p className="span-wrapper">
-                <span className="text-wrapper-20">
-                  completing over 20 total projects to date
-                </span>
-              </p>
-
-              <p className="span-wrapper">
+                <span className="text-wrapper-20">completing over 20 total projects to date</span>
                 <span className="text-wrapper-19">
                   . However, as it’s major funders face potential financial
                   setbacks, our team identified a priority to pursue a new
-                  funding path. <br />
-                  <br />
+                  funding path. <br /> <br />
                   Community events and website promotion were initiatives the
                   Lab experimented with to promote its work. Our team
                   hypothesized that accelerating marketing efforts can sustain
@@ -277,66 +246,27 @@ export const PhoneProject = () => {
                 <span className="text-wrapper-19">
                   Through secondary research, our team evaluated{" "}
                 </span>
-              </p>
-
-              <p className="span-wrapper">
-                <span className="text-wrapper-20">
-                  10+ funding alternatives
-                </span>
-              </p>
-
-              <p className="span-wrapper">
+                <span className="text-wrapper-20">10+ funding alternatives</span>
                 <span className="text-wrapper-19"> and </span>
-              </p>
-
-              <p className="span-wrapper">
                 <span className="text-wrapper-20">three peer case studies</span>
-              </p>
-
-              <p className="span-wrapper">
                 <span className="text-wrapper-19">
-                  {" "}
-                  to outline a funding strategy tailored to the Lab’s unique
-                  position.{" "}
+                  {" "}to outline a funding strategy tailored to the Lab’s unique position.{" "}
                 </span>
-              </p>
-
-              <p className="span-wrapper">
-                <span className="text-wrapper-24">The McConnell Fund</span>
-              </p>
-
-              <p className="span-wrapper">
-                <span className="text-wrapper-19">
-                  {" "}
-                  was identified to be a high-potential funder. We created a
-                  tailored plan including suggested responses and tailored
-                  content. Historical peer data was used to estimate the
-                  expected funding outcome, projecting a six figure revenue
-                  return, sufficient to cover a full year of project operations.{" "}
-                  <br />
-                  <br />
-                  To accelerate the Lab’s marketing efforts, our team validated
-                  the initial hypothesis via targeting matrix, interviews with
-                  key stakeholders, peer case studies, and supporting secondary
-                  research. Our solution is a blended marketing campaign
-                  focusing on promotional media, increased industry event
-                  attendance and long-term partnerships. By centring the focus
-                  on lab work and collaboration, the Lab can enhance it’s
-                  community presence and realize a{" "}
+                  <span className="text-wrapper-24">The McConnell Fund</span>
+                  <span className="text-wrapper-19">
+                       {" "}was identified to be a high-potential funder. We created a tailored plan
+                      including suggested responses and tailored content. Historical peer data was
+                      used to estimate the expected funding outcome, projecting a six figure revenue
+                      return, sufficient to cover a full year of project operations. <br /><br />
+                      To accelerate the Lab’s marketing efforts, our team validated the initial
+                      hypothesis via targeting matrix, interviews with key stakeholders, peer case
+                      studies, and supporting secondary research. Our solution is a blended marketing
+                      campaign focusing on promotional media, increased industry event attendance and
+                      long-term partnerships. By centring the focus on lab work and collaboration,
+                      the Lab can enhance its community presence and realize a{" "}
                 </span>
-              </p>
-
-              <p className="span-wrapper">
                 <span className="text-wrapper-20">~25% growth</span>
-              </p>
-
-              <p className="span-wrapper">
-                <span className="text-wrapper-19">
-                  {" "}
-                  in project opportunities.
-                  <br />
-                  <br />
-                </span>
+                <span className="text-wrapper-19"> in project opportunities.<br /><br /></span>
               </p>
             </>
           )}
